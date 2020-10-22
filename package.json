@@ -36,7 +36,7 @@
     "express": "^4.13.3",
     "jade": "^1.11.0",
     "nodemon": "^2.0.4",
-    "react": "^16.8.6",
+    "react": "^17.0.1",
     "react-hot-loader": "^4.4.0",
     "react-router": "^5.0.1",
     "webpack": "^4.41.2",
